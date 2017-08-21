@@ -16,6 +16,11 @@ public class Test {
 		return x - y;
 	}
 
+	private void syso() {
+		// TODO Auto-generated method stub
+
+	}
+
 	public int div(int x, int y) {
 		return x / y;
 	}
