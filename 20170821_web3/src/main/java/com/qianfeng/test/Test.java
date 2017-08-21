@@ -11,4 +11,8 @@ public class Test {
 		Test test = new Test();
 		System.out.println();
 	}
+
+	public int sub(int x, int y) {
+		return x - y;
+	}
 }
